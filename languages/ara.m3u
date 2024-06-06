@@ -101,8 +101,10 @@ https://kali.vdopanel.com:3986/live/mbashalive.m3u8
 https://5e74a9d684b2e.streamlock.net/liveTrans/ngrp:channel23_all/playlist.m3u8
 #EXTINF:-1 tvg-id="AlMaghribia.ma" tvg-logo="https://i.imgur.com/7GaahYh.png" group-title="General",Al Maghribia (360p)
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_maghribia_snrt/hls_snrt/al_maghribia_snrt.m3u8
-#EXTINF:-1 tvg-id="AlMamlakaTV.jo" tvg-logo="https://i.imgur.com/6njRt6c.png" group-title="General",Al Mamlaka TV (1080p)
+#EXTINF:-1 tvg-id="AlMamlakaTV.jo" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8a/Al-Mamlaka_TV_logo.png" group-title="General",Al Mamlaka TV (1080p)
 https://almamlka-live.ercdn.net/almamlka/almamlka.m3u8
+#EXTINF:-1 tvg-id="AlMamlakaTV.jo" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8a/Al-Mamlaka_TV_logo.png" group-title="General",Al Mamlaka TV (Alternative)
+https://bcovlive-a.akamaihd.net/4109c7ba30fd4a44ad9afe917c67a8c8/eu-central-1/6415809151001/playlist_dvr.m3u8
 #EXTINF:-1 tvg-id="AlManar.lb" tvg-logo="https://i.imgur.com/sOQLV7L.png" group-title="News",Al Manar (576p) [Not 24/7]
 https://manar.live/iptv/playlist.m3u8
 #EXTINF:-1 tvg-id="AlMasarTV.ly" tvg-logo="https://play-lh.googleusercontent.com/FHPrsr391mPFqKfTq6ZdvWPZNVfsZeTAVQ8rjQF-NosnRdNipUy5xa43RWkiF4tGcQU" group-title="News",Al Masar TV (576p)
