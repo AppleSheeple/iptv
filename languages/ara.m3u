@@ -84,13 +84,13 @@ http://185.105.4.151:8080/_defapp_/ittihad/index.m3u8
 #EXTINF:-1 tvg-id="CNNInternationalEurope.us" tvg-logo="https://i.imgur.com/dfxefQw.png" group-title="News",CNN International Europe (720p)
 https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="AlJazeera.qa" tvg-logo="https://i.imgur.com/7bRVpnu.png" group-title="News",Al Jazeera Arabic (1080p)
-https://live-hls-v3-aja.getaj.net/AJA-V3/index.m3u8
+https://live-hls-v3-aja.getaj.net/AJA-V3/02.m3u8
 #EXTINF:-1 tvg-id="AlJazeeraEnglish.qa" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Aljazeera_eng.svg/512px-Aljazeera_eng.svg.png" group-title="News",Al Jazeera English
-https://live-hls-aje.getaj.net/AJE/index.m3u8
+https://live-hls-aje.getaj.net/AJE/02.m3u8
 #EXTINF:-1 tvg-id="AlJazeeraDocumentary.qa" tvg-logo="https://i.imgur.com/5dNJlLo.png" group-title="News",Al Jazeera Documentary (270p) [Geo-blocked]
 https://live-hls-web-ajd.getaj.net/AJD/index.m3u8
 #EXTINF:-1 tvg-id="AlJazeeraMubasher.qa" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/90/Al_Jazeera_Mubasher_logo.png" group-title="News",Al Jazeera Mubasher (1080p)
-https://live-hls-web-ajm.getaj.net/AJM/index.m3u8
+https://live-hls-web-ajm.getaj.net/AJM/02.m3u8
 #EXTINF:-1 tvg-id="AlKaheraWalNas.eg" tvg-logo="https://i.imgur.com/xa7RK5p.png" group-title="Undefined",Al Kahera Wal Nas (1080p) [Not 24/7]
 https://ythls.armelin.one/channel/UCzWdc0aUo0IDk5ysLrt04hw.m3u8
 #EXTINF:-1 tvg-id="AlKhalijTV.sa" tvg-logo="https://i.imgur.com/Knd2lAQ.png" group-title="General",Al Khalij (720p) [Not 24/7]
