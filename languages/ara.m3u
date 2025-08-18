@@ -660,9 +660,9 @@ https://shls-rotanaplus-prod-dub.shahid.net/out/v1/1fc6103458be480b96e6a574b00fe
 #EXTINF:-1 tvg-id="RoyaTV.jo" tvg-logo="https://i.imgur.com/WX80rty.png" group-title="General",Roya TV (720p) [Not 24/7]
 https://royatv-live.daioncdn.net/royatv/royatv.m3u8
 #EXTINF:-1 tvg-id="RoyaTV.jo" tvg-logo="https://i.imgur.com/WX80rty.png" group-title="General",Roya TV (Alt 1)
-https://shls-live-ak.akamaized.net/out/v1/f1d7243984224a7e94bc34ff60d9fd53/index.m3u8
+https://ochuergrys.erbvr.com/roya/roya_720p.m3u8?st=TtRIDncxTjc6-qS7Ewbv7w&e=1755563405&sid=zr6hlau0K0aUe9LS1uPiQg&bvr_flags=1&bvr_ch=roya&bvr_bw=1500000
 #EXTINF:-1 tvg-id="RoyaTV.jo" tvg-logo="https://i.imgur.com/WX80rty.png" group-title="General",Roya TV (Alt 2)
-https://weyyak-live.akamaized.net/weyyak_roya/index.m3u8
+https://ochuergrys.erbvr.com/roya/roya_720p.m3u8?st=TtRIDncxTjc6-qS7Ewbv7w&e=1755563405&sid=zr6hlau0K0aUe9LS1uPiQg&bvr_flags=1&bvr_ch=roya&bvr_bw=1500000
 #EXTINF:-1 tvg-id="Makan.org.il" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/56/MeKan_33_logo_2017.png" group-title="General",Makan
 #https://makan.media.kan.org.il/hls/live/2024680/2024680/master.m3u8
 https://makan.media.kan.org.il/hls/live/2024680/2024680/source1_2.5k/chunklist.m3u8
