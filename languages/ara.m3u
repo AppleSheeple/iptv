@@ -660,6 +660,36 @@ http://188.247.86.66/RotanaRadio/Audio32/playlist.m3u8
 https://shls-rotanaplus-prod-dub.shahid.net/out/v1/1fc6103458be480b96e6a574b00fe1c0/index.m3u8
 #EXTINF:-1 tvg-id="RoyaTV.jo" tvg-logo="https://i.imgur.com/WX80rty.png" group-title="General",Roya TV (720p) [Not 24/7]
 https://ro-re.vercel.app/1
+#EXTINF:-1 tvg-id="RoyaTVDrama.jo" tvg-logo="https://i.imgur.com/WX80rty.png" group-title="General",Roya TV Drama (720p) [Not 24/7]
+https://ro-re.vercel.app/2
+#EXTINF:-1 tvg-id="RoyaTVComedy.jo" tvg-logo="https://i.imgur.com/WX80rty.png" group-title="General",Roya TV Comedy (720p) [Not 24/7]
+# comedy
+https://ro-re.vercel.app/3
+#EXTINF:-1 tvg-id="RoyaTVKitchen.jo" tvg-logo="https://i.imgur.com/WX80rty.png" group-title="General",Roya TV Kitchen (720p) [Not 24/7]
+#kitchen
+https://ro-re.vercel.app/4
+# redbull
+#EXTINF:-1 tvg-id="RoyaTVRedBull.jo" tvg-logo="https://i.imgur.com/WX80rty.png" group-title="General",Roya TV RedBull (720p) [Not 24/7]
+https://ro-re.vercel.app/5
+# doc
+#EXTINF:-1 tvg-id="RoyaTVDoc.jo" tvg-logo="https://i.imgur.com/WX80rty.png" group-title="General",Roya TV Doc (720p) [Not 24/7]
+https://ro-re.vercel.app/6
+# 24/7 chows for missing ids
+# kids
+#EXTINF:-1 tvg-id="RoyaTVKids.jo" tvg-logo="https://i.imgur.com/WX80rty.png" group-title="General",Roya TV Kids (720p) [Not 24/7]
+https://ro-re.vercel.app/14
+# Masrahyyat
+#EXTINF:-1 tvg-id="RoyaTVMasrahyyat.jo" tvg-logo="https://i.imgur.com/WX80rty.png" group-title="General",Roya TV Masrahyyat (720p) [Not 24/7]
+https://ro-re.vercel.app/17
+# action
+#EXTINF:-1 tvg-id="RoyaTVAction.jo" tvg-logo="https://i.imgur.com/WX80rty.png" group-title="General",Roya TV Action (720p) [Not 24/7]
+https://ro-re.vercel.app/18
+# news
+#EXTINF:-1 tvg-id="RoyaTVNews.jo" tvg-logo="https://i.imgur.com/WX80rty.png" group-title="General",Roya TV News (720p) [Not 24/7]
+https://ro-re.vercel.app/21
+# music
+#EXTINF:-1 tvg-id="RoyaTVMusic.jo" tvg-logo="https://i.imgur.com/WX80rty.png" group-title="General",Roya TV Music (720p) [Not 24/7]
+https://ro-re.vercel.app/25
 #EXTINF:-1 tvg-id="RoyaTV.jo" tvg-logo="https://i.imgur.com/WX80rty.png" group-title="General",Roya TV (Alt 1)
 https://royatv-live.daioncdn.net/royatv/royatv_720p.m3u8
 #EXTINF:-1 tvg-id="RoyaTV.jo" tvg-logo="https://i.imgur.com/WX80rty.png" group-title="General",Roya TV (Alt 2)
